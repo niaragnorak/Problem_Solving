@@ -1,0 +1,5 @@
+Given a number N, find the Least Common Factor of the first N natural numbers
+Eg:
+	N=6
+	arr=[1,2,3,4,5,6]
+	LCM of arr=60
